@@ -30,7 +30,7 @@ float : 공중에 둥둥 떠있어서 그 다음 컨텐츠가 그 사이로 쏙 
 
 마진 상쇄 : 1)부모 안에 자식 2)형제 태그 3)빈 태그 
  해결 block format context
- ```display: inline-block;  width 100%;```
+```display: inline-block;  width 100%;```
 
 쌓임 맥락 : 자식은 부모의 z-index 관계를 뛰어넘지 못한다.
 
