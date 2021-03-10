@@ -1,8 +1,7 @@
 html 웹의 구조, 컨텐츠 / css 디자인 / j.s 웹의 동작, 웹의 모든 것
 웹 문서 vs 웹 애플리케이션
 
-``` <input type = "checkbox" />
-<input type = "radio" name="group" /> ```
+```<input type = "checkbox" />  <input type = "radio" name="group" />```
 
 Elements Ctrl+f 찾기 기능, Ctrl+Shift+c 해당 부분 클릭->소스
 
