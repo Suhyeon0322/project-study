@@ -22,9 +22,11 @@ git이 conflict를 처리하는 방법 3 way merge
 
 git flow, cherry-pick, rebase
 
+checkout은 change, reset은 delete의 느낌
+
 git 혼자서 작업하기
 git remote add origin 'github repository address'
-git push -u origin master
+git push -u origin master //우리의 로컬 저장소의 master와 원격 저장소의 master를 페어링
 
 git 협업
 git clone ex)git@github.com:Suhyeon0322/project-study.git
