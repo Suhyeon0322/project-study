@@ -78,5 +78,5 @@ start a review : comment를 grouping하여 pull request 요청자에게 제공
 
 ```
 git branch -d suhyeon //로컬 브랜치 삭제
-git push origin -delete suhyeon //원격 브랜치 삭제
+git push origin --delete suhyeon //원격 브랜치 삭제
 ```
