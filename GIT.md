@@ -1,4 +1,4 @@
-Working Tree -> Staging Area -> Repository (사용 명령 : git status, git add, git commit)
+Working Tree -> Staging Area -> Repository (사용 명령 : git status, git add, git commit)  
 git diff 버전 간의 차이점 비교
 git reset --hard  //버전 삭제
 git log -p
