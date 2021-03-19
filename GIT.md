@@ -43,3 +43,17 @@ start a review : comment를 grouping하여 pull request 요청자에게 제공
 
 충돌 해결
 충돌을 해결하면서 topic branch를 개선 -> 우리의 topic branch를 master branch로 merge
+
+```
+cd ex)C:\Users\eceye\Desktop\프로젝트\Git-Main
+git clone ex)git@github.com:Suhyeon0322/project-study.git
+git branch //현재 내가 위치한 브랜치 확인
+git status
+git branch suhyeon //브랜치 생성
+git checkout suhyeon //생성한 브랜치로 이동
+git add .
+git commit -m "modified"
+git push origin develop
+git branch -d suhyeon //로컬 브랜치 삭제
+git push origin -delete suhyeon //원격 브랜치 삭제
+```
