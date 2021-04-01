@@ -52,10 +52,10 @@ git checkout master
 cat work.txt //txt 내용 보기
 git branch o2 //병합
 
-외부도구를 이용한 병합
-git mergetool
-p4merge git config 검색해서 직접 찾기
-git config --global merge.tool p4mergetool
+외부도구를 이용한 병합  
+git mergetool  
+p4merge git config 검색해서 직접 찾기  
+git config --global merge.tool p4mergetool  
 
 git이 conflict를 처리하는 방법 3 way merge
 
