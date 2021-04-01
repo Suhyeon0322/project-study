@@ -42,11 +42,11 @@ git clone https://github.com/유저네임/원격저장소이름.git // 깃허브
 내려받기
 ```git pull 원격저장소명 브랜치명```
 
-git diff 버전 간의 차이점 비교
-git log -p
-git checkout //특정 버전으로 working tree를 변경시키는 방법, HEAD 값을 바꾸는 행위
-git commit -am "5" //add와 commit 동시 
-git commit --amend //commit 후 수정
+git diff 버전 간의 차이점 비교  
+git log -p  
+git checkout //특정 버전으로 working tree를 변경시키는 방법, HEAD 값을 바꾸는 행위  
+git commit -am "5" //add와 commit 동시   
+git commit --amend //commit 후 수정  
 
 git checkout master
 cat work.txt //txt 내용 보기
